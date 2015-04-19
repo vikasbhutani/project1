@@ -1,0 +1,46 @@
+body {
+  font-family: Verdana, sans-serif;
+}
+
+/* Header */
+.header {
+  text-align: center;
+}
+
+h1 {
+  color: #666;
+  font-size: 48px;
+  padding-top: 25px;
+}
+
+h2 {
+  color: #f07c17 !important;
+  font-weight: bold !important;
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+
+/* Contnet */
+p {
+  color: #666;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+/* Feature List */
+.features {
+  margin-top: 20px;
+  padding: 10px 30px 30px 30px;
+  border: 1px solid #ccc;
+}
+
+ul li {
+  color: #666;
+  font-size: 16px;
+  line-height: 32px;
+}
+
+/* Image */
+.mug {
+  margin: 20px 0 30px;
+}
